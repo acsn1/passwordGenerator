@@ -6,7 +6,8 @@ Python - Pycharm IDE
 
 ## Releases
 You can view all the releases <a href="https://github.com/acsn1/passwordGenerator/releases">here</a>.
-<p>🔓 You are free to download and use this project.</p>
 
 ## Install it yourself
-You are able to download the .py script and make it .exe yourself using PyInstaller.
+You are able to download the .py script and make it .exe yourself instead of downloading it through the releases using PyInstaller.
+
+<p>🔓 You are free to download and use this project.</p>
